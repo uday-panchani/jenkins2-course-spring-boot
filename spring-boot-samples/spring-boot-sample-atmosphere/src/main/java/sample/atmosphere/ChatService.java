@@ -14,6 +14,9 @@
  * limitations under the License.
  */
 
+/*
+This is the code for chat
+*/
 package sample.atmosphere;
 
 import java.io.IOException;
